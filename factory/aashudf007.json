@@ -1,0 +1,9 @@
+{
+	"name": "aashudf007",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3d02250-0625-4ebf-8268-4f1be08bae3e",
+		"tenantId": "9f7cea45-a802-46f0-9ce0-5c0824fe9c20"
+	}
+}
